@@ -1,3 +1,3 @@
-## subheader here from my computer
+## subheader here from my github
 
-hello from my computer 
+hello from my github woot! 
